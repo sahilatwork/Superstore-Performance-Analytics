@@ -1,6 +1,6 @@
 # 🏬 Superstore Performance Analytics Dashboard
 
-![Dashboard Screenshot](images/superstore_dashboard.png)
+![Dashboard Screenshot](https://github.com/sahilatwork/Superstore-Performance-Analytics/blob/main/Dashboard.png)
 
 ## 📊 Dashboard Link  
 👉 [View Live on Tableau Public](https://github.com/sahilatwork/Superstore-Performance-Analytics/blob/main/Dashboard.png)
